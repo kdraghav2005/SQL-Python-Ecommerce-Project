@@ -1,4 +1,4 @@
-# Target Dataset Analysis – Data Analyst Portfolio Project
+  # Target Dataset Analysis – Data Analyst Portfolio Project
 
 This project is a detailed analysis of the Target Dataset from Kaggle, aimed at demonstrating my data analysis skills through a simulated retail business case. It covers data cleaning, exploration, SQL querying, and business insight generation—similar to what a data analyst might do in a real-world setting.
 
@@ -73,9 +73,9 @@ Through this project, I’ve demonstrated the ability to:
 - Generate actionable business insights
 - Communicate findings in a clean and understandable format
 
-## Get in Touch
+## Author
 
-If you'd like to connect or have feedback, feel free to reach out:
+
 
 - GitHub: [@kdraghav2005](https://github.com/kdraghav2005)
 
